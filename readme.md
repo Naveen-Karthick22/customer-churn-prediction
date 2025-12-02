@@ -59,20 +59,17 @@ It demonstrates the complete ML workflow: **data preprocessing, model training, 
 ## 🔹 Files in This Project
 
 customer-churn-prediction/
-│── notebooks/
 
+
+│── notebooks/
 
 │ └── Customer_Churn_Prediction.ipynb # Full step-by-step notebook
 
-
 │── model/
-
 
 │ └── customer_churn_model.pkl # Saved Random Forest model
 
-
 │── README.md
-
 
 │── requirements.txt # Libraries used in the project
 
@@ -87,4 +84,5 @@ git clone https://github.com/Naveen-Karthick22/customer-churn-prediction.git
 cd customer-churn-prediction
 
 pip install -r requirements.txt
+
 
